@@ -18,7 +18,7 @@
     margin: 0 auto;
     width: 1280px; 
     width: 100%;
-    justify-content: space-around;
+ 
 }
     
 header .container{
@@ -130,7 +130,6 @@ background-color: aliceblue;
     margin: 0 auto;
     width: 1280px;
     width: 100%;
-    justify-content: space-around;
 }
 #id h4,
 h3{
