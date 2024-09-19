@@ -17,7 +17,6 @@
 .container{
     margin: 0 auto;
     width: 1280px; 
-    width: 100%;
 }
     
 header .container{
@@ -126,6 +125,8 @@ background-color: aliceblue;
     border-style: solid;
     border-width: 5px;
     border-color: rgb(5, 0, 10);
+    margin: 0 auto;
+    width: 1280px;
 }
 #id h4,
 h3{
